@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Flexshop/static/css/main.ead9d38f.chunk.css",
+    "main.js": "/Flexshop/static/js/main.4a0bc0ad.chunk.js",
+    "main.js.map": "/Flexshop/static/js/main.4a0bc0ad.chunk.js.map",
+    "runtime-main.js": "/Flexshop/static/js/runtime-main.a53eb434.js",
+    "runtime-main.js.map": "/Flexshop/static/js/runtime-main.a53eb434.js.map",
+    "static/js/2.60327f06.chunk.js": "/Flexshop/static/js/2.60327f06.chunk.js",
+    "static/js/2.60327f06.chunk.js.map": "/Flexshop/static/js/2.60327f06.chunk.js.map",
+    "index.html": "/Flexshop/index.html",
+    "precache-manifest.c33a5047f4199185a22f18f9469b456c.js": "/Flexshop/precache-manifest.c33a5047f4199185a22f18f9469b456c.js",
+    "service-worker.js": "/Flexshop/service-worker.js",
+    "static/css/main.ead9d38f.chunk.css.map": "/Flexshop/static/css/main.ead9d38f.chunk.css.map",
+    "static/js/2.60327f06.chunk.js.LICENSE.txt": "/Flexshop/static/js/2.60327f06.chunk.js.LICENSE.txt",
+    "static/media/ad.PNG": "/Flexshop/static/media/ad.5caa2bdc.PNG",
+    "static/media/brand1.PNG": "/Flexshop/static/media/brand1.e317b7c9.PNG",
+    "static/media/brand2.PNG": "/Flexshop/static/media/brand2.518ceb11.PNG",
+    "static/media/car.PNG": "/Flexshop/static/media/car.9a2d4ec4.PNG",
+    "static/media/card.PNG": "/Flexshop/static/media/card.5e0f70f8.PNG",
+    "static/media/cardboard.PNG": "/Flexshop/static/media/cardboard.94e12899.PNG",
+    "static/media/cycle.PNG": "/Flexshop/static/media/cycle.6b97bd0e.PNG",
+    "static/media/drum.PNG": "/Flexshop/static/media/drum.2aea9ecd.PNG",
+    "static/media/headphone.PNG": "/Flexshop/static/media/headphone.eb5e8ea9.PNG",
+    "static/media/helicopter.PNG": "/Flexshop/static/media/helicopter.7f0821f7.PNG",
+    "static/media/house.PNG": "/Flexshop/static/media/house.c12c7c7d.PNG",
+    "static/media/laptop.PNG": "/Flexshop/static/media/laptop.e6db82ab.PNG",
+    "static/media/logo.svg": "/Flexshop/static/media/logo.5d5d9eef.svg",
+    "static/media/mf.PNG": "/Flexshop/static/media/mf.563cb37a.PNG",
+    "static/media/mobile.PNG": "/Flexshop/static/media/mobile.66a270e4.PNG",
+    "static/media/slide1.PNG": "/Flexshop/static/media/slide1.cea53cd6.PNG",
+    "static/media/slide2.PNG": "/Flexshop/static/media/slide2.8aff8805.PNG",
+    "static/media/slide3.PNG": "/Flexshop/static/media/slide3.f885abd5.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a53eb434.js",
+    "static/js/2.60327f06.chunk.js",
+    "static/css/main.ead9d38f.chunk.css",
+    "static/js/main.4a0bc0ad.chunk.js"
+  ]
+}
